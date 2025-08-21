@@ -1,6 +1,6 @@
 # Android Themes Collection
 
-A curated collection of custom themes for Heliboard keyboard and Kvaesitso launcher, featuring both dark and light variants with modern color schemes and aesthetic designs.
+Some custom themes for Heliboard keyboard and Kvaesitso launcher on Android, WIP! warning: future app updates may break these themes.
 
 ## Heliboard Themes
 
