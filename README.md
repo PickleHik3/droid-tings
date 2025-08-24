@@ -36,3 +36,45 @@ Some custom themes for Heliboard keyboard and Kvaesitso launcher on Android, WIP
 | [Light Solarized Desert Sun](Heliboard-themes/Light-Solarized-Desert-Sun.json) | ![Light Solarized Desert Sun](Heliboard-themes/Screenshots/Light-Solarized-Desert-Sun0.png) |
 | [Light Solarized Oasis](Heliboard-themes/Light-Solarized-Oasis.json) | ![Light Solarized Oasis](Heliboard-themes/Screenshots/Light-Solarized-Oasis0.png) |
 | [Light Vaporwave Sunset](Heliboard-themes/Light-Vaporwave-Sunset.json) | ![Light Vaporwave Sunset](Heliboard-themes/Screenshots/Light-Vaporwave-Sunset0.png) |
+
+## Kvaesitso Themes
+
+**Note:** These themes include both dark and light variants that automatically switch with Android's system theme. Many more color variants are available in the folder than shown in screenshots below.
+
+| Theme Family | Light Variant | Dark Variant |
+|--------------|---------------|--------------|
+| **Ayu** | ![Ayu Light](Kvaesitso-themes/Screenshots/Ayu-Light.png) | ![Ayu Dark](Kvaesitso-themes/Screenshots/Ayu-Dark.png) |
+| **Ayu Mirage** | ![Ayu Mirage](Kvaesitso-themes/Screenshots/Ayu-Mirage.png) | ![Ayu Mirage](Kvaesitso-themes/Screenshots/Ayu-Mirage.png) |
+| **Everforest** | ![Everforest Light](Kvaesitso-themes/Screenshots/Everforest-Light.png) | ![Everforest Dark](Kvaesitso-themes/Screenshots/Everforest-Dark.png) |
+| **Gruvbox** | ![Gruvbox Light](Kvaesitso-themes/Screenshots/Gruvbox-Light.png) | ![Gruvbox Dark Orange](Kvaesitso-themes/Screenshots/Gruvbox-Dark-Orange.png) |
+| **Kanagawa** | ![Kanagawa Light Lotus](Kvaesitso-themes/Screenshots/Kanagawa-Light-Lotus.png) | ![Kanagawa Dark Dragon Aqua](Kvaesitso-themes/Screenshots/Kanagawa-Dark-Dragon-Aqua.png) |
+| **Tokyo Night** | ![Tokyo Night Light Day](Kvaesitso-themes/Screenshots/TokyoNight-Light-Day-Blue.png) | ![Tokyo Night Dark Moon](Kvaesitso-themes/Screenshots/TokyoNight-Dark-Moon-Blue.png) |
+
+### Available Theme Variants
+
+- **Ayu**: Light/Dark adaptive and Light/Mirage adaptive versions
+- **Everforest**: Light/Dark adaptive with green accent
+- **Gruvbox**: Light/Dark adaptive in 7 color variants (Aqua, Blue, Green, Orange, Purple, Red, Yellow)
+- **Kanagawa**: Lotus/Dragon and Lotus/Wave adaptive versions in 6 color variants (Aqua, Green, Orange, Red, Violet, Yellow)
+- **Rose Pine**: Dawn/Main and Dawn/Moon adaptive versions in 6 color variants (Foam, Gold, Iris, Love, Pine, Rose)
+- **Tokyo Night**: Day/Night, Day/Moon, and Day/Storm adaptive versions with blue accent
+
+## Acknowledgments
+
+This collection wouldn't be possible without the amazing work of the open-source community. Special thanks to:
+
+### Applications
+- **[Kvaesitso](https://github.com/MM2-0/Kvaesitso)** - A search-focused Android launcher
+- **[Heliboard](https://github.com/Helium314/HeliBoard)** - Privacy-conscious keyboard for Android
+
+### Theme Palettes & Color Schemes
+- **[Rose Pine](https://rosepinetheme.com/)** - All natural pine, faux fur and a bit of soho vibes
+- **[Gruvbox](https://github.com/morhetz/gruvbox)** - Retro groove color scheme
+- **[Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme)** - A clean, dark theme inspired by Tokyo's neon-lit skyline
+- **[Kanagawa](https://github.com/rebelot/kanagawa.nvim)** - Dark colorscheme inspired by Katsushika Hokusai's famous painting
+- **[Ayu](https://github.com/ayu-theme/ayu-colors)** - Modern theme with bright colors
+- **[Everforest](https://github.com/sainnhe/everforest)** - Green based color scheme designed to be warm and soft
+- **[Solarized](https://ethanschoonover.com/solarized/)** - Precision colors for machines and people
+- **[Nord](https://www.nordtheme.com/)** - Arctic, north-bluish color palette
+
+Thank you to all the developers and designers who created these beautiful color schemes and applications!

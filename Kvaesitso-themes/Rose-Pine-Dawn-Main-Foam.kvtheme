@@ -1,0 +1,303 @@
+{
+  "name": "Rose Pine Dawn/Main Foam",
+  "corePalette": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "neutral": null,
+    "neutralVariant": null,
+    "error": null
+  },
+  "lightColorScheme": {
+    "primary": [
+      "#",
+      "#ff56949f"
+    ],
+    "onPrimary": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "primaryContainer": [
+      "#",
+      "#ff56949f"
+    ],
+    "onPrimaryContainer": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "secondary": [
+      "#",
+      "#ff56949f"
+    ],
+    "onSecondary": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "secondaryContainer": [
+      "#",
+      "#ff56949f"
+    ],
+    "onSecondaryContainer": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "tertiary": [
+      "#",
+      "#ff56949f"
+    ],
+    "onTertiary": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "tertiaryContainer": [
+      "#",
+      "#ff56949f"
+    ],
+    "onTertiaryContainer": [
+      "#",
+      "#ff669ba5"
+    ],
+    "error": [
+      "#",
+      "#ffb4637a"
+    ],
+    "onError": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "errorContainer": [
+      "#",
+      "#ffad5a73"
+    ],
+    "onErrorContainer": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "surface": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "onSurface": [
+      "#",
+      "#ff575279"
+    ],
+    "onSurfaceVariant": [
+      "#",
+      "#ff56949f"
+    ],
+    "outline": [
+      "#",
+      "#ff9893a5"
+    ],
+    "outlineVariant": [
+      "#",
+      "#ff797593"
+    ],
+    "inverseSurface": [
+      "#",
+      "#ff232136"
+    ],
+    "inverseOnSurface": [
+      "#",
+      "#ffe0def4"
+    ],
+    "inversePrimary": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "surfaceDim": [
+      "#",
+      "#fffffaf3"
+    ],
+    "surfaceBright": [
+      "#",
+      "#fff2e9e1"
+    ],
+    "surfaceContainerLowest": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "surfaceContainerLow": [
+      "#",
+      "#fff4ede8"
+    ],
+    "surfaceContainer": [
+      "#",
+      "#fffffaf3"
+    ],
+    "surfaceContainerHigh": [
+      "#",
+      "#ffdfdad9"
+    ],
+    "surfaceContainerHighest": [
+      "#",
+      "#ffcecacd"
+    ],
+    "background": [
+      "$",
+      "$n.6"
+    ],
+    "onBackground": [
+      "#",
+      "#ff575279"
+    ],
+    "surfaceTint": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "scrim": [
+      "$",
+      "$n.0"
+    ],
+    "surfaceVariant": [
+      "#",
+      "#fffaf4ed"
+    ]
+  },
+  "darkColorScheme": {
+    "primary": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "onPrimary": [
+      "#",
+      "#ff191724"
+    ],
+    "primaryContainer": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "onPrimaryContainer": [
+      "#",
+      "#ff191724"
+    ],
+    "secondary": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "onSecondary": [
+      "#",
+      "#ff191724"
+    ],
+    "secondaryContainer": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "onSecondaryContainer": [
+      "#",
+      "#ff191724"
+    ],
+    "tertiary": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "onTertiary": [
+      "#",
+      "#ff191724"
+    ],
+    "tertiaryContainer": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "onTertiaryContainer": [
+      "#",
+      "#ffa6d3dc"
+    ],
+    "error": [
+      "#",
+      "#ffeb6f92"
+    ],
+    "onError": [
+      "#",
+      "#ff191724"
+    ],
+    "errorContainer": [
+      "#",
+      "#ffe85d8a"
+    ],
+    "onErrorContainer": [
+      "#",
+      "#ff191724"
+    ],
+    "surface": [
+      "#",
+      "#ff191724"
+    ],
+    "onSurface": [
+      "#",
+      "#ffe0def4"
+    ],
+    "onSurfaceVariant": [
+      "#",
+      "#ff9ccfd8"
+    ],
+    "outline": [
+      "#",
+      "#ff6e6a86"
+    ],
+    "outlineVariant": [
+      "#",
+      "#ff908caa"
+    ],
+    "inverseSurface": [
+      "#",
+      "#fffaf4ed"
+    ],
+    "inverseOnSurface": [
+      "#",
+      "#ff575279"
+    ],
+    "inversePrimary": [
+      "#",
+      "#ff56949f"
+    ],
+    "surfaceDim": [
+      "#",
+      "#ff1f1d2e"
+    ],
+    "surfaceBright": [
+      "#",
+      "#ff26233a"
+    ],
+    "surfaceContainerLowest": [
+      "#",
+      "#ff191724"
+    ],
+    "surfaceContainerLow": [
+      "#",
+      "#ff21202e"
+    ],
+    "surfaceContainer": [
+      "#",
+      "#ff1f1d2e"
+    ],
+    "surfaceContainerHigh": [
+      "#",
+      "#ff403d52"
+    ],
+    "surfaceContainerHighest": [
+      "#",
+      "#ff524f67"
+    ],
+    "background": [
+      "$",
+      "$n.6"
+    ],
+    "onBackground": [
+      "#",
+      "#ffe0def4"
+    ],
+    "surfaceTint": [
+      "#",
+      "#ff191724"
+    ],
+    "scrim": [
+      "$",
+      "$n.0"
+    ],
+    "surfaceVariant": [
+      "#",
+      "#ff191724"
+    ]
+  }
+}

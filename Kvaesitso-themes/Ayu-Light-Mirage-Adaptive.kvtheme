@@ -1,0 +1,303 @@
+{
+  "name": "Ayu Light/Mirage Adaptive",
+  "corePalette": {
+    "primary": null,
+    "secondary": null,
+    "tertiary": null,
+    "neutral": null,
+    "neutralVariant": null,
+    "error": null
+  },
+  "lightColorScheme": {
+    "primary": [
+      "#",
+      "#ff36a3d9"
+    ],
+    "onPrimary": [
+      "#",
+      "#fffafafa"
+    ],
+    "primaryContainer": [
+      "#",
+      "#ff36a3d9"
+    ],
+    "onPrimaryContainer": [
+      "#",
+      "#fffafafa"
+    ],
+    "secondary": [
+      "#",
+      "#ff36a3d9"
+    ],
+    "onSecondary": [
+      "#",
+      "#fffafafa"
+    ],
+    "secondaryContainer": [
+      "#",
+      "#ff36a3d9"
+    ],
+    "onSecondaryContainer": [
+      "#",
+      "#fffafafa"
+    ],
+    "tertiary": [
+      "#",
+      "#ff36a3d9"
+    ],
+    "onTertiary": [
+      "#",
+      "#fffafafa"
+    ],
+    "tertiaryContainer": [
+      "#",
+      "#ff36a3d9"
+    ],
+    "onTertiaryContainer": [
+      "#",
+      "#ff46aadc"
+    ],
+    "error": [
+      "#",
+      "#ffd96c75"
+    ],
+    "onError": [
+      "#",
+      "#fffafafa"
+    ],
+    "errorContainer": [
+      "#",
+      "#ffd7636b"
+    ],
+    "onErrorContainer": [
+      "#",
+      "#fffafafa"
+    ],
+    "surface": [
+      "#",
+      "#fffafafa"
+    ],
+    "onSurface": [
+      "#",
+      "#ff5c6773"
+    ],
+    "onSurfaceVariant": [
+      "#",
+      "#ff36a3d9"
+    ],
+    "outline": [
+      "#",
+      "#ff828c99"
+    ],
+    "outlineVariant": [
+      "#",
+      "#ffd9d7ce"
+    ],
+    "inverseSurface": [
+      "#",
+      "#ff0f1419"
+    ],
+    "inverseOnSurface": [
+      "#",
+      "#ffe6e1cf"
+    ],
+    "inversePrimary": [
+      "#",
+      "#ff39bae6"
+    ],
+    "surfaceDim": [
+      "#",
+      "#fff0efea"
+    ],
+    "surfaceBright": [
+      "#",
+      "#fffffefe"
+    ],
+    "surfaceContainerLowest": [
+      "#",
+      "#ffffffff"
+    ],
+    "surfaceContainerLow": [
+      "#",
+      "#fff6f5f0"
+    ],
+    "surfaceContainer": [
+      "#",
+      "#fff0efea"
+    ],
+    "surfaceContainerHigh": [
+      "#",
+      "#ffebeae5"
+    ],
+    "surfaceContainerHighest": [
+      "#",
+      "#ffe5e4df"
+    ],
+    "background": [
+      "$",
+      "$n.6"
+    ],
+    "onBackground": [
+      "#",
+      "#ff5c6773"
+    ],
+    "surfaceTint": [
+      "#",
+      "#fffafafa"
+    ],
+    "scrim": [
+      "$",
+      "$n.0"
+    ],
+    "surfaceVariant": [
+      "#",
+      "#fffafafa"
+    ]
+  },
+  "darkColorScheme": {
+    "primary": [
+      "#",
+      "#ff73d0ff"
+    ],
+    "onPrimary": [
+      "#",
+      "#ff1f2430"
+    ],
+    "primaryContainer": [
+      "#",
+      "#ff73d0ff"
+    ],
+    "onPrimaryContainer": [
+      "#",
+      "#ff1f2430"
+    ],
+    "secondary": [
+      "#",
+      "#ff73d0ff"
+    ],
+    "onSecondary": [
+      "#",
+      "#ff1f2430"
+    ],
+    "secondaryContainer": [
+      "#",
+      "#ff73d0ff"
+    ],
+    "onSecondaryContainer": [
+      "#",
+      "#ff1f2430"
+    ],
+    "tertiary": [
+      "#",
+      "#ff73d0ff"
+    ],
+    "onTertiary": [
+      "#",
+      "#ff1f2430"
+    ],
+    "tertiaryContainer": [
+      "#",
+      "#ff73d0ff"
+    ],
+    "onTertiaryContainer": [
+      "#",
+      "#ff7dd4ff"
+    ],
+    "error": [
+      "#",
+      "#fff28779"
+    ],
+    "onError": [
+      "#",
+      "#ff1f2430"
+    ],
+    "errorContainer": [
+      "#",
+      "#fff07e6f"
+    ],
+    "onErrorContainer": [
+      "#",
+      "#ff1f2430"
+    ],
+    "surface": [
+      "#",
+      "#ff1f2430"
+    ],
+    "onSurface": [
+      "#",
+      "#ffcbccc6"
+    ],
+    "onSurfaceVariant": [
+      "#",
+      "#ff73d0ff"
+    ],
+    "outline": [
+      "#",
+      "#ff5c6773"
+    ],
+    "outlineVariant": [
+      "#",
+      "#ff242936"
+    ],
+    "inverseSurface": [
+      "#",
+      "#ffcbccc6"
+    ],
+    "inverseOnSurface": [
+      "#",
+      "#ff1f2430"
+    ],
+    "inversePrimary": [
+      "#",
+      "#ff399ee6"
+    ],
+    "surfaceDim": [
+      "#",
+      "#ff1a1f29"
+    ],
+    "surfaceBright": [
+      "#",
+      "#ff2a2f3a"
+    ],
+    "surfaceContainerLowest": [
+      "#",
+      "#ff151a23"
+    ],
+    "surfaceContainerLow": [
+      "#",
+      "#ff1a1f29"
+    ],
+    "surfaceContainer": [
+      "#",
+      "#ff1f2430"
+    ],
+    "surfaceContainerHigh": [
+      "#",
+      "#ff2a2f3a"
+    ],
+    "surfaceContainerHighest": [
+      "#",
+      "#ff353a45"
+    ],
+    "background": [
+      "$",
+      "$n.6"
+    ],
+    "onBackground": [
+      "#",
+      "#ffcbccc6"
+    ],
+    "surfaceTint": [
+      "#",
+      "#ff1f2430"
+    ],
+    "scrim": [
+      "$",
+      "$n.0"
+    ],
+    "surfaceVariant": [
+      "#",
+      "#ff1f2430"
+    ]
+  }
+}
