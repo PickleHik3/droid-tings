@@ -15,27 +15,27 @@ Some custom themes for Heliboard keyboard and Kvaesitso launcher on Android, WIP
 
 | Theme Name | Screenshot |
 |------------|------------|
-| [Dark Nord](Heliboard-themes/Dark-Nord.json) | ![Dark Nord](Heliboard-themes/Screenshots/Dark-Nord0.png) |
-| [Light Botanical Garden](Heliboard-themes/Light-Botanical-Garden.json) | ![Light Botanical Garden](Heliboard-themes/Screenshots/Light-Botanical-Garden0.png) |
-| [Light Olivia](Heliboard-themes/Light-Olivia.json) | ![Light Olivia](Heliboard-themes/Screenshots/Light-Olivia0.png) |
+| [Dark Nord](Heliboard-themes/Dark-Nord.json) | <img src="Heliboard-themes/Screenshots/Dark-Nord0.png" alt="Dark Nord" width="200"> |
+| [Light Botanical Garden](Heliboard-themes/Light-Botanical-Garden.json) | <img src="Heliboard-themes/Screenshots/Light-Botanical-Garden0.png" alt="Light Botanical Garden" width="200"> |
+| [Light Olivia](Heliboard-themes/Light-Olivia.json) | <img src="Heliboard-themes/Screenshots/Light-Olivia0.png" alt="Light Olivia" width="200"> |
 
 ### Show All Colors (Complex)
 
 | Theme Name | Screenshot |
 |------------|------------|
-| [Dark Cyberpunk Neon](Heliboard-themes/Dark-Cyberpunk-Neon.json) | ![Dark Cyberpunk Neon](Heliboard-themes/Screenshots/Dark-Cyberpunk-Neon0.png) |
-| [Dark Kanagawa Wave](Heliboard-themes/Dark-Kanagawa-Wave.json) | ![Dark Kanagawa Wave](Heliboard-themes/Screenshots/Dark-Kanagawa-Wave0.png) |
-| [Dark Rose Pine Moon](Heliboard-themes/Dark-rose-pine-moon.json) | ![Dark Rose Pine Moon](Heliboard-themes/Screenshots/Dark-rose-pine-moon0.png) |
-| [Dark Solarized Flare](Heliboard-themes/Dark-Solarized-Flare.json) | ![Dark Solarized Flare](Heliboard-themes/Screenshots/Dark-Solarized-Flare0.png) |
-| [Dark Tokyo Night Moon](Heliboard-themes/Dark-Tokyo-Night-Moon.json) | ![Dark Tokyo Night Moon](Heliboard-themes/Screenshots/Dark-Tokyo-Night-Moon0.png) |
-| [Dark Tokyo Night Storm](Heliboard-themes/Dark-Tokyo-Night-Storm.json) | ![Dark Tokyo Night Storm](Heliboard-themes/Screenshots/Dark-Tokyo-Night-Storm0.png) |
-| [Light Rose Pine Dawn](Heliboard-themes/Light-rose-pine-dawn.json) | ![Light Rose Pine Dawn](Heliboard-themes/Screenshots/Light-rose-pine-dawn0.png) |
-| [Light Rose Pine Morning Dew](Heliboard-themes/Light-Rose-Pine-Morning-Dew.json) | ![Light Rose Pine Morning Dew](Heliboard-themes/Screenshots/Light-Rose-pine-Morning-Dew0.png) |
-| [Light Rosé Pine Dawn](Heliboard-themes/Light-Rosé-Pine-Dawn.json) | ![Light Rosé Pine Dawn](Heliboard-themes/Screenshots/Light-Rosé-Pine-Dawn0.png) |
-| [Light Solarized Blue](Heliboard-themes/Light-Solarized-Blue.json) | ![Light Solarized Blue](Heliboard-themes/Screenshots/Light-Solarized-Blue0.png) |
-| [Light Solarized Desert Sun](Heliboard-themes/Light-Solarized-Desert-Sun.json) | ![Light Solarized Desert Sun](Heliboard-themes/Screenshots/Light-Solarized-Desert-Sun0.png) |
-| [Light Solarized Oasis](Heliboard-themes/Light-Solarized-Oasis.json) | ![Light Solarized Oasis](Heliboard-themes/Screenshots/Light-Solarized-Oasis0.png) |
-| [Light Vaporwave Sunset](Heliboard-themes/Light-Vaporwave-Sunset.json) | ![Light Vaporwave Sunset](Heliboard-themes/Screenshots/Light-Vaporwave-Sunset0.png) |
+| [Dark Cyberpunk Neon](Heliboard-themes/Dark-Cyberpunk-Neon.json) | <img src="Heliboard-themes/Screenshots/Dark-Cyberpunk-Neon0.png" alt="Dark Cyberpunk Neon" width="200"> |
+| [Dark Kanagawa Wave](Heliboard-themes/Dark-Kanagawa-Wave.json) | <img src="Heliboard-themes/Screenshots/Dark-Kanagawa-Wave0.png" alt="Dark Kanagawa Wave" width="200"> |
+| [Dark Rose Pine Moon](Heliboard-themes/Dark-rose-pine-moon.json) | <img src="Heliboard-themes/Screenshots/Dark-rose-pine-moon0.png" alt="Dark Rose Pine Moon" width="200"> |
+| [Dark Solarized Flare](Heliboard-themes/Dark-Solarized-Flare.json) | <img src="Heliboard-themes/Screenshots/Dark-Solarized-Flare0.png" alt="Dark Solarized Flare" width="200"> |
+| [Dark Tokyo Night Moon](Heliboard-themes/Dark-Tokyo-Night-Moon.json) | <img src="Heliboard-themes/Screenshots/Dark-Tokyo-Night-Moon0.png" alt="Dark Tokyo Night Moon" width="200"> |
+| [Dark Tokyo Night Storm](Heliboard-themes/Dark-Tokyo-Night-Storm.json) | <img src="Heliboard-themes/Screenshots/Dark-Tokyo-Night-Storm0.png" alt="Dark Tokyo Night Storm" width="200"> |
+| [Light Rose Pine Dawn](Heliboard-themes/Light-rose-pine-dawn.json) | <img src="Heliboard-themes/Screenshots/Light-rose-pine-dawn0.png" alt="Light Rose Pine Dawn" width="200"> |
+| [Light Rose Pine Morning Dew](Heliboard-themes/Light-Rose-Pine-Morning-Dew.json) | <img src="Heliboard-themes/Screenshots/Light-Rose-pine-Morning-Dew0.png" alt="Light Rose Pine Morning Dew" width="200"> |
+| [Light Rosé Pine Dawn](Heliboard-themes/Light-Rosé-Pine-Dawn.json) | <img src="Heliboard-themes/Screenshots/Light-Rosé-Pine-Dawn0.png" alt="Light Rosé Pine Dawn" width="200"> |
+| [Light Solarized Blue](Heliboard-themes/Light-Solarized-Blue.json) | <img src="Heliboard-themes/Screenshots/Light-Solarized-Blue0.png" alt="Light Solarized Blue" width="200"> |
+| [Light Solarized Desert Sun](Heliboard-themes/Light-Solarized-Desert-Sun.json) | <img src="Heliboard-themes/Screenshots/Light-Solarized-Desert-Sun0.png" alt="Light Solarized Desert Sun" width="200"> |
+| [Light Solarized Oasis](Heliboard-themes/Light-Solarized-Oasis.json) | <img src="Heliboard-themes/Screenshots/Light-Solarized-Oasis0.png" alt="Light Solarized Oasis" width="200"> |
+| [Light Vaporwave Sunset](Heliboard-themes/Light-Vaporwave-Sunset.json) | <img src="Heliboard-themes/Screenshots/Light-Vaporwave-Sunset0.png" alt="Light Vaporwave Sunset" width="200"> |
 
 ## Kvaesitso Themes
 
@@ -43,12 +43,12 @@ Some custom themes for Heliboard keyboard and Kvaesitso launcher on Android, WIP
 
 | Theme Family | Light Variant | Dark Variant |
 |--------------|---------------|--------------|
-| **Ayu** | ![Ayu Light](Kvaesitso-themes/Screenshots/Ayu-Light.png) | ![Ayu Dark](Kvaesitso-themes/Screenshots/Ayu-Dark.png) |
-| **Ayu Mirage** | ![Ayu Mirage](Kvaesitso-themes/Screenshots/Ayu-Mirage.png) | ![Ayu Mirage](Kvaesitso-themes/Screenshots/Ayu-Mirage.png) |
-| **Everforest** | ![Everforest Light](Kvaesitso-themes/Screenshots/Everforest-Light.png) | ![Everforest Dark](Kvaesitso-themes/Screenshots/Everforest-Dark.png) |
-| **Gruvbox** | ![Gruvbox Light](Kvaesitso-themes/Screenshots/Gruvbox-Light.png) | ![Gruvbox Dark Orange](Kvaesitso-themes/Screenshots/Gruvbox-Dark-Orange.png) |
-| **Kanagawa** | ![Kanagawa Light Lotus](Kvaesitso-themes/Screenshots/Kanagawa-Light-Lotus.png) | ![Kanagawa Dark Dragon Aqua](Kvaesitso-themes/Screenshots/Kanagawa-Dark-Dragon-Aqua.png) |
-| **Tokyo Night** | ![Tokyo Night Light Day](Kvaesitso-themes/Screenshots/TokyoNight-Light-Day-Blue.png) | ![Tokyo Night Dark Moon](Kvaesitso-themes/Screenshots/TokyoNight-Dark-Moon-Blue.png) |
+| **Ayu** | <img src="Kvaesitso-themes/Screenshots/Ayu-Light.png" alt="Ayu Light" width="150"> | <img src="Kvaesitso-themes/Screenshots/Ayu-Dark.png" alt="Ayu Dark" width="150"> |
+| **Ayu Mirage** | <img src="Kvaesitso-themes/Screenshots/Ayu-Mirage.png" alt="Ayu Mirage" width="150"> | <img src="Kvaesitso-themes/Screenshots/Ayu-Mirage.png" alt="Ayu Mirage" width="150"> |
+| **Everforest** | <img src="Kvaesitso-themes/Screenshots/Everforest-Light.png" alt="Everforest Light" width="150"> | <img src="Kvaesitso-themes/Screenshots/Everforest-Dark.png" alt="Everforest Dark" width="150"> |
+| **Gruvbox** | <img src="Kvaesitso-themes/Screenshots/Gruvbox-Light.png" alt="Gruvbox Light" width="150"> | <img src="Kvaesitso-themes/Screenshots/Gruvbox-Dark-Orange.png" alt="Gruvbox Dark Orange" width="150"> |
+| **Kanagawa** | <img src="Kvaesitso-themes/Screenshots/Kanagawa-Light-Lotus.png" alt="Kanagawa Light Lotus" width="150"> | <img src="Kvaesitso-themes/Screenshots/Kanagawa-Dark-Dragon-Aqua.png" alt="Kanagawa Dark Dragon Aqua" width="150"> |
+| **Tokyo Night** | <img src="Kvaesitso-themes/Screenshots/TokyoNight-Light-Day-Blue.png" alt="Tokyo Night Light Day" width="150"> | <img src="Kvaesitso-themes/Screenshots/TokyoNight-Dark-Moon-Blue.png" alt="Tokyo Night Dark Moon" width="150"> |
 
 ### Available Theme Variants
 
